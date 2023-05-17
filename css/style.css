@@ -1,0 +1,72 @@
+.gb_g {
+  height: 11px;
+  width: 11px;
+}
+.header {
+  display: flex;
+  right: 0;
+  position: absolute;
+  align-items: center;
+  gap: 10px;
+  height: 20px;
+}
+.nav-list {
+  display: flex;
+  gap: 8px;
+  list-style: none;
+  font-size: 6px;
+  font-family: DM Sans, sans-serif;
+}
+.google-img {
+  text-align: center;
+  top: 22%;
+  height: 50px;
+  position: fixed;
+  left: 43%;
+}
+.input {
+  top: 33%;
+  left: 34.5%;
+  position: fixed;
+  width: 300px;
+  padding-left: 25px;
+  height: 23px;
+  border-radius: 12px;
+  outline: none;
+  border: 0.5px solid rgba(128, 128, 128, 0.253);
+}
+.svgs {
+  height: 11px;
+  position: fixed;
+  top: 34.5%;
+  left: 62%;
+  width: 11px;
+}
+.svgss {
+  height: 11px;
+  position: fixed;
+  top: 34.5%;
+  left: 64%;
+  width: 11px;
+}
+.svgsss {
+  height: 11px;
+  position: fixed;
+  top: 34.5%;
+  left: 35.5%;
+  width: 11px;
+  opacity: 0.2;
+}
+.btns {
+  top: 43%;
+  position: fixed;
+  height: 20px;
+}
+.btn {
+  height: 10px;
+}
+.google-p {
+  top: 45%;
+  position: fixed;
+  font-size: 7px;
+}
